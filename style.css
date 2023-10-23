@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background:url(/rose-petals-3682164_640.jpg); */
+   background-color: white;
+   
+}
+.container{
+    display: flex;
+    background-color: rgb(240, 234, 234);
+    
+}
+.logo{
+    margin: 10px;
+    padding: 10px;
+}
+.menu{
+    margin-left: 591px;
+}
+.menu ul{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+
+}
+.text i{
+    color: #020101;
+}
+.menu li{
+    list-style: none;
+    padding: 10px;
+    
+}
+.menu a{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+    color: #000;
+}
+.text{
+   font-size: 25px;
+   margin-top: 200px;
+   margin-left: 220px;
+  
+}
+
+.text h2{
+    margin: 5px;
+
+}
+.text1 img{
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    float: right;
+    padding: 50px;
+    margin-right: 150px;
+    margin-top: -310px;
+    border-radius: 250px;
+}
+.text p span{
+    color: red;
+}
+.text h2 span{
+    color: orange;
+}
+.btn{
+    font-size: 25px;
+    background-color: rgb(3, 3, 80);
+    border: 2px solid rgb(2, 2, 64);
+    border-radius: 5px;
+    color: white;
+
+}
+.about{
+    margin-top: 211px;
+}
+.about h1{
+  
+    text-align: center;
+    color: blue;
+}
+.about p{
+    padding: 5px;
+    font-size: 20px;
+    width: 500px;
+    margin: 15px;
+    color: rgb(41, 40, 40);
+    font-weight: bold;
+
+}
+.img img{
+    width: 400px;
+    height: 350px;
+    float: right;
+    margin-top: -502px;
+    margin-right: 182px;
+}
+.phone{
+    display: flex;
+}
+.table{
+    margin: 12px;
+    font-size: 20px;
+    padding: 10px;
+}
+.table tr td{
+    
+   
+    padding: 10px;
+}
+.EDUCATION{
+    text-align: center;
+    font-size: 20px;
+}
+.bx{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+.box{
+    border: 2px solid rgb(255, 253, 253);
+    margin: 20px;
+    background-color: white;
+    border-radius: 12PX;
+    
+}
+.box h2{
+    color: rgb(34, 33, 33);
+    font-style: italic;
+}
+.box h3{
+    color: rgb(29, 28, 28);
+    font-style: italic;
+    
+}
+.skills h1{
+    text-align: center;
+}
+.w3-light-grey{
+    padding: 10px;
+}
+.w3-container {
+    padding: 6px;
+}
